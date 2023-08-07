@@ -30,7 +30,7 @@ sudo apt-get install -y vim
 # Installation
 
 ### Powerline (and fonts)
-###Here need to git clone this project then cd ternimal-profile ....now here run these below commands
+### Here need to git clone this project then cd ternimal-profile ....now here run these below commands
 
 First, we'll install the font (RobotoMono for Powerline). I'll also install it into VIM, since that
 is my built-in editor of choice (but you don't have to use it).
